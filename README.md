@@ -1,4 +1,5 @@
 # Java-CDAC
 
-Assignments 02 and 03 is remaining
-Excercises : only 03 is remaining
+Assignments : Employee Menu Driven Program is remaining
+
+Exercises : All Completed
