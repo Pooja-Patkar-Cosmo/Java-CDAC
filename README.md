@@ -1,5 +1,5 @@
 # Java-CDAC
 
-Assignments : Employee Menu Driven Program is remaining
+Assignments : All completed
 
-Exercises : All Completed
+Exercises : All completed
