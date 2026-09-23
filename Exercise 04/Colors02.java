@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.TreeSet;
 
-public class Main {
+public class Colors02 {
     public static void main(String[] args) {
 
         ArrayList<String> list1 = new ArrayList<>();
